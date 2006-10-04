@@ -5,5 +5,5 @@ README
 QChemOut.pm
 ethane.out
 t/pod.t
-t/xyz.t
+t/qchemout.t
 META.yml                                 Module meta-data (added by MakeMaker)
